@@ -1,0 +1,57 @@
+{
+  "slug": "introduction-aux-bases-de-donnees",
+  "title": "Maîtrisez les Bases de Données pour Booster Votre Carrière",
+  "description": "Découvrez les fondements des bases de données, apprenez à concevoir et à gérer des systèmes de gestion de données efficaces. Ce cours vous permettra de comprendre comment stocker, organiser et récupérer des données de manière efficiente.",
+  "level": "débutant",
+  "icon": "📊",
+  "tags": [
+    "Bases de Données",
+    "Data",
+    "Développement Web"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction aux Bases de Données"
+    },
+    {
+      "file": "02-concepts-de-base.md",
+      "title": "Concepts de Base des Bases de Données"
+    },
+    {
+      "file": "03-systemes-de-gestion-de-donnees.md",
+      "title": "Systèmes de Gestion de Données"
+    },
+    {
+      "file": "04-langages-de-requete.md",
+      "title": "Langages de Requête"
+    },
+    {
+      "file": "05-creation-de-bases-de-donnees.md",
+      "title": "Création de Bases de Données"
+    },
+    {
+      "file": "06-gestion-des-donnees.md",
+      "title": "Gestion des Données"
+    },
+    {
+      "file": "07-optimisation-des-requetes.md",
+      "title": "Optimisation des Requêtes"
+    },
+    {
+      "file": "08-projet-de-base-de-donnees.md",
+      "title": "Projet de Base de Données"
+    },
+    {
+      "file": "09-deploiement-de-bases-de-donnees.md",
+      "title": "Déploiement de Bases de Données"
+    },
+    {
+      "file": "10-maintenance-des-bases-de-donnees.md",
+      "title": "Maintenance des Bases de Données"
+    }
+  ]
+}
